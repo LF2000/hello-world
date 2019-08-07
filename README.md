@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+LF2000 here.
